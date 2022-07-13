@@ -1,0 +1,3 @@
+#to limit access on those file on git because it contains sensitive information as our password...
+/node_modules
+.env
